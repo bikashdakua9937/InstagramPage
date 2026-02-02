@@ -1,6 +1,6 @@
 ## My new app
-Instagram Login page making with responsive and modern design in both frontend and interactive with backend
-To run the devserver:
+Instagram Login page making with responsive and modern design in both frontend and interactive with backend.
+ To run the devserver:
 ```
 npm install
 npm run dev
